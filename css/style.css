@@ -39,6 +39,13 @@ header .contacto :hover{font-size: 20px; color: #8BC740;}
 
 }
 
+.card{
+    width: 593px;
+height: 312px;
+left: 223px;
+top: 768px; background-color: #d9d9d9;
+}
+
 .iframevideo{padding-left: 350px; padding-top: 80px;}
 .mapa{padding-left: 328px; padding-top: 80px;}
 .portada2{display: flex; padding-left: 78px; top: 125px;}
