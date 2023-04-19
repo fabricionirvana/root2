@@ -185,7 +185,7 @@ main div input{position: absolute;
 /* mobile */
 
 @media (max-width: 768px) {
-    .grid{ 
+    .gridindex{ 
         display:grid;
         grid-template-areas: 
         "headindex"
